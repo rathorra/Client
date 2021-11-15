@@ -5,11 +5,8 @@
     <classes>
       <class name="TestClass.GetApITestClass">
         <methods>
-          <include name="setup"/>
           <include name="SetUp"/>
           <include name="getTest"/>
-          <include name="m21"/>
-          <include name="m2"/>
         </methods>
       </class> <!-- TestClass.GetApITestClass -->
     </classes>

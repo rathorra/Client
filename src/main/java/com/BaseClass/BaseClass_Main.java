@@ -29,10 +29,7 @@ public Properties prop;
 		}
 	}
 
-	public boolean verify(String arg0, SSLSession arg1) {
-		// TODO Auto-generated method stub
-		return false;
-	}
+	
 	
 
 }
